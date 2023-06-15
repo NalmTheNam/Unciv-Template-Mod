@@ -1,0 +1,55 @@
+[{
+    "name": "Humanity",
+    "leaderName": "H. sapiens",
+    "startBias": ["[Jungle]", "Avoid [Desert]", "Avoid [Tundra]"],
+    "preferredVictoryType": "Neutral",
+
+    "startIntroPart1": "Welcome to the world, leader. You have been elected as a leader for humanity.",
+    "startIntroPart2": "Now, let's start!",
+
+    "declaringWar": "We're more powerful than you!",
+    "attacked": "Don't you dare mess with humanity!",
+    "defeated": "I... surrender...",
+    "introduction": "Hello! We are humanity.",
+    "neutralHello": "Hello.",
+    "hateHello": "Why?",
+    "tradeRequest": "We think this trade is beneficial for both of us.",
+
+    "innerColor": [50, 168, 82],
+    "outerColor": [11, 66, 26],
+
+    "uniqueName": "Mind Curiosity",
+    "uniques": [
+        //"[+1 Science] per [3] population [in all cities] <starting from the [Classical era]>",
+        //"[+50]% [Science] <starting from the [Classical era]>",
+        //"\"Borrows\" city names from other civilizations in the game"
+    ],
+    "cities": ["Africa"]
+}, {
+    "name": "Bacteria",
+    "leaderName": "H. sapiens",
+    "startBias": ["[Jungle]", "Avoid [Desert]", "Avoid [Tundra]"],
+    "preferredVictoryType": "Neutral",
+
+    "startIntroPart1": "Welcome to the world, leader. You have been elected as a leader for humanity.",
+    "startIntroPart2": "Now, let's start!",
+
+    "declaringWar": "We're more powerful than you!",
+    "attacked": "Don't you dare mess with humanity!",
+    "defeated": "I... surrender...",
+    "introduction": "Hello! We are humanity.",
+    "neutralHello": "Hello.",
+    "hateHello": "Why?",
+    "tradeRequest": "We think this trade is beneficial for both of us.",
+
+    "innerColor": [50, 168, 82],
+    "outerColor": [11, 66, 26],
+
+    "uniqueName": "Mind Curiosity",
+    "uniques": [
+        //"[+1 Science] per [3] population [in all cities] <starting from the [Classical era]>",
+        //"[+50]% [Science] <starting from the [Classical era]>",
+        //"\"Borrows\" city names from other civilizations in the game"
+    ],
+    "cities": ["Africa"] 
+}]
