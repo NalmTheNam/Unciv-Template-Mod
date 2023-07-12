@@ -13,7 +13,7 @@
     },
     {
         "name": "Warrior",
-        "unitType": "Club Swinger",
+        "unitType": "Sword",
         "cost": 40,
         "movement": 2,
         "strength": 8,
