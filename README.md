@@ -1,2 +1,2 @@
 # Info
-This is a template Unciv mod. You can fork this project and then create a new Unciv mod.
+This is a template Unciv Modification. Clone this repository with Git (don't fork it) and then make a new repository.
