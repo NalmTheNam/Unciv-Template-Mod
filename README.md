@@ -1,6 +1,5 @@
 # Info
-This is a template Unciv Modification. 
+This is an Unciv modification that is meant to be used as a template. 
 
 # Steps to make a new repository
-1. Clone this repository with Git (don't fork it)
-2. Remove the .git/ folder after cloning it. 
+1. Click the green "Use a template" button
