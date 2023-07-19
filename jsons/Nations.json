@@ -6,25 +6,25 @@
     {
         "name": "Humanity",
         "leaderName": "H. sapiens",
-        "startBias": [
-            "[Jungle]",
-            "Avoid [Desert]",
-            "Avoid [Tundra]"
-        ],
         "preferredVictoryType": "Neutral",
-        "startIntroPart1": "Welcome to the world, leader. You have been elected as a leader for humanity.",
-        "startIntroPart2": "Now, let's start!",
-        "declaringWar": "We're more powerful than you!",
+
+        "declaringWar": "Your army is weak, and that makes you an easy target!",
+        
         "attacked": "Don't you dare mess with humanity!",
-        "defeated": "I... surrender...",
+        "defeated": "Humanity has surrendered, but one day humanity will come back!",
+
         "introduction": "Hello! We are humanity.",
         "neutralHello": "Hello.",
         "hateHello": "Why?",
-        "tradeRequest": "We think this trade is beneficial for both of us.",
+
+        "tradeRequest": "We bestow you the honor of this trade offer.",
+
         "innerColor": [50, 168, 82],
         "outerColor": [11, 66, 26],
+
         "uniqueName": "Mind Curiosity",
         "uniques": ["[+1 Science] [in all cities]"],
+
         "cities": [
             "Africa",
             "Asia",
@@ -36,16 +36,9 @@
         ]
     },
     {
-        "name": "Good Bacteria",
-        "leaderName": "Bacillus",
-        "startBias": [
-            "Avoid [Desert]",
-            "Avoid [Tundra]"
-        ],
+        "name": "Elves",
+        "leaderName": "Jassin Loraxisys",
         "preferredVictoryType": "Neutral",
-        "startIntroPart1": "We need help. We need you to defeat the bad bacteria in the world.",
-        "startIntroPart2": "If you could help me, I would thank you.",
-        "declaringWar": "I see you as a bad bacteria. I see you as a bacteria that harms people. I have no choice. WAR!",
         "attacked": "Oh no! Help us!",
         "defeated": "I... surrender...",
         "introduction": "Hello! We are the good bacteria. Call me Bacillus.",
